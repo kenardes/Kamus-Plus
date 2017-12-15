@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Categories=Office;Education;
+Exec=kamusplus
+Name=KamusPlus
+Comment=Kamus Interaktif Bahasa Inggris - Indonesia
+StartupNotify=true
+Icon=/usr/share/doc/kamusplus/res/icon.png
+

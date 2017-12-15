@@ -1,0 +1,13 @@
+Package: kamusplus
+Version: 2.0
+Section: Utilities
+Priority: optional
+Architecture: all
+Maintainer: kenardes <o_poel@yahoo.com> 
+Description: An interactive English-Indonesian dictionary.
+ .
+ With Kamus Plus you can search the meaning of words from 
+ English to Indonesia or vice versa. This dictionary is 
+ created with java so it can run directly on Linux and 
+ Windows as long as there is jre.
+ .
